@@ -43,8 +43,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/1592262447c5ce8714b60.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
-global.packname = '© حقوق عمك انوس-Mdོ' //sticker wm ubah
-global.author = 'حقوق انوس' //sticker wm ganti nama kalian
+global.packname = '© حقوق عمك تارتاقليا' //sticker wm ubah
+global.author = 'حقوق تارتاقليا' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
@@ -118,15 +118,15 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗اكه ديسكو ~',
-    admin: '🎭لا يمكن استخدام هذا الأمر إلا من قبل المسؤولين🎭!',
-    botAdmin: 'لا يمكن استخدام هذا الأمر إلا عندما يكون الروبوت مسؤولا!',
+    sukses: '🥺complete girly ~',
+    admin: '🎭هذا الامر فقط للرجاله المشرفين استرجل وحاول مره اخرى🎭!',
+    botAdmin: 'لا يمكن استخدام هذا الأمر إلا عندما يكون البوت مسؤولا!',
     owner: '🌀لا يمكن استخدام هذا الأمر إلا من قبل المالك🌀!',
     group: '🎭لا يمكن استخدام هذا الأمر إلا في مجموعات🎭!',
-    private: '🕸️لا يمكن استخدام هذا الأمر إلا على انفراد🕸️ !',
+    private: '😼لا يمكن استخدام هذا الأمر إلا على انبوكس🕸️ !',
 	bot: '🤖عدد بوت ميزات محددة للمستخدم🤖',
-    errtoimg: '🔖ماف سات إيني بيلوم دعم ملصق جيف🔖!',
-    wait: '⏳ يرجى الانتظار',
+    errtoimg: 'error يولادالكلب🔖!',
+    wait: '⏳ انتظري اوني تشان',
 	lockCmd: '⚜️الميزات غير ممكنة من قبل المالك⚜️!',
 	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
